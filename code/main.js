@@ -1,6 +1,9 @@
 import "./styles.css";
 import { clearChildren } from "./utils";
 import { getChoices, getComputerChoice, getOutcome } from "./game";
+import Paper from "./assets/paper.png";
+import Rock from "./assets/rock.png";
+import Scissors from "./assets/scissors.png";
 
 function makeChoiceImage(choice) {
   const image = new Image(100, 100);
