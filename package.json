@@ -1,0 +1,12 @@
+{
+  "name": "codecademy-integrating-build-tools",
+  "version": "1.0.0",
+  "description": "Student project for Codecademy on integrating build tools. Learning objective: to configure an existing web application to use Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
