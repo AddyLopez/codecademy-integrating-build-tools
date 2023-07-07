@@ -1,4 +1,5 @@
 module.exports = {
+  entry: "./code/main.js",
   mode: "development",
   module: {
     rules: [
